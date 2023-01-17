@@ -1,4 +1,5 @@
 # Mechanisms and Machines Virtual Lab
+[![View Mechanisms-and-Machines-Virtual-Lab on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/123370-mechanisms-and-machines-virtual-lab)
 
 ![Machines and Mechanisms Virtual Lab](https://user-images.githubusercontent.com/86011214/212940938-1e667e16-6aac-4f50-a77c-1a9b8a44b6b8.jpg)
 The virtual lab is developed for demonstration, position, velocity, and acceleration analysis of mechanisms and machines.
